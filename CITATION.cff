@@ -1,0 +1,24 @@
+﻿cff-version: 1.2.0
+message: "If you use this software, please cite the versioned GitHub release."
+title: "Computational certificate for common-zero contours"
+type: software
+authors:
+  - family-names: "Chidambaram"
+    given-names: "Agasthya"
+    affiliation: "University of Waterloo"
+version: 1.0.0
+date-released: "2026-07-12"
+repository-code: "https://github.com/cookie579/verify-common-zero-contour"
+url: "https://github.com/cookie579/verify-common-zero-contour/releases/tag/v1.0.0"
+license: MIT
+abstract: >-
+  Computational certificate accompanying the paper "Divisible formal
+  weight enumerators: Chebyshev determinants, extremal bounds, and zeros
+  of Duursma zeta polynomials." The software verifies the finite algebraic
+  inequalities used in the computer-assisted part of Theorem C.
+keywords:
+  - formal weight enumerators
+  - Duursma zeta polynomials
+  - computer-assisted proof
+  - symbolic computation
+  - rational interval arithmetic
