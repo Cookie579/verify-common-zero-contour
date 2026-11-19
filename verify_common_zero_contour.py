@@ -212,7 +212,7 @@ RINGS = {
         "ceil_Y": 2,
         "bad_ratio_ceil": F(644, 1000),
         "derivative_floor": F(3, 1000),
-        "base_good_ceil": F(309, 1000),
+        "base_good_ceil": F(3089, 10000),
         "base_bad_ceil": F(234, 1000),
     },
     6: {

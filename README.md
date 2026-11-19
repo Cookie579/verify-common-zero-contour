@@ -1,3 +1,4 @@
+
 # Computational certificate for common-zero contours
 
 This repository contains the computational artifact accompanying the paper:
@@ -128,19 +129,41 @@ The script performs the following finite checks:
 The mathematical justification for these checks and their role in the proof
 are given in the accompanying paper.
 
-## Repository
+## Repository and versioning
 
-The development repository is available at:
+The source code and computational certificates are maintained at:
 
 https://github.com/cookie579/verify-common-zero-contour
 
-The permanent archived release and DOI are provided by Zenodo. The
-version-specific Zenodo release should be used when citing the software.
+Versioned releases are published through GitHub Releases:
+
+https://github.com/cookie579/verify-common-zero-contour/releases
+
+The release corresponding to version 1.0.1 is:
+
+https://github.com/cookie579/verify-common-zero-contour/releases/tag/v1.0.1
+
+Each version identifies a specific state of the verification program,
+its archived output, and the accompanying reproducibility files.
+The original version 1.0.0 remains preserved for historical reproducibility.
 
 ## Citation
 
-Citation metadata are supplied in `CITATION.cff`. Please cite the
-version-specific Zenodo record associated with the release used in your work.
+Citation metadata are provided in `CITATION.cff`.
+
+When referencing the computational certificate in mathematical research,
+please cite the version-specific GitHub release corresponding to the
+verification program used.
+
+For version 1.0.1, cite:
+
+Agasthya Chidambaram, *Computational certificate for common-zero contours*,
+version 1.0.1, GitHub repository, 2026.
+
+https://github.com/cookie579/verify-common-zero-contour/releases/tag/v1.0.1
+
+For precise reproducibility, the corresponding Git commit hash may also be
+included in the citation.
 
 ## Author
 
